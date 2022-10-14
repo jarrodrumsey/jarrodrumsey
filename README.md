@@ -98,7 +98,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashfieldx&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-Note: I keep most of my repos private. Sorry about that!
+<div align="center">Note: I keep most of my repos private. Sorry about that!</div>
 <br/>  
 
 
