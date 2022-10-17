@@ -10,7 +10,7 @@
 - ❓ Feel free to reach out with any questions.  
   
 
-- ⚡ Fun fact: I'd rather use multi-line comment syntax (/* */) over any other variation.  
+- ⚡ Fun fact: I prefer to comment using multi-line comment syntax (/* */) whenever required. 
   
 
 <br/>  
