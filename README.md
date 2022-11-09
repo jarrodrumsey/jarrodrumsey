@@ -1,4 +1,4 @@
-### <div align="center">I'm Jarrod, a freelance hooligan and lover of clean code.</div>  
+### <div align="center">I'm Jarrod</div>  
   
 
 - ⭐ I’m currently working on my portfolio site.    
