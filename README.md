@@ -1,4 +1,4 @@
-### <div align="center">I'm Jarrod</div>  
+### <div align="center">Hi, I'm Jarrod</div>  
   
 
 - ⭐ I’m currently working on my portfolio site.    
