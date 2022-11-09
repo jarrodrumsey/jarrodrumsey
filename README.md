@@ -4,7 +4,7 @@
 - ⭐ I’m currently working on my portfolio site.    
   
 
-- 🌱 I’m currently learning AngularJS, SQL and microservice architecture.  
+- 🌱 I’m currently learning Angular, SQL and microservice architecture.  
   
 
 - ❓ Feel free to reach out with any questions.  
