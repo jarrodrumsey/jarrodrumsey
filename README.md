@@ -4,7 +4,7 @@
 - ⭐ I’m currently working on my portfolio site.    
   
 
-- 🌱 I’m currently learning React, PostgreSQL and microservice architecture.  
+- 🌱 I’m currently honing my skills with React, PostgreSQL and microservice architecture.  
   
 
 - ❓ Feel free to reach out with any questions.  
