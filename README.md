@@ -1,21 +1,10 @@
 ### <div align="center">Hi, I'm Jarrod</div>  
-  
 
-- ⭐ I’m currently working on my portfolio site.    
-  
-
-- 🌱 I’m currently honing my skills with React, PostgreSQL and microservice architecture.  
-  
-
-- ❓ Feel free to reach out with any questions.  
-  
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
