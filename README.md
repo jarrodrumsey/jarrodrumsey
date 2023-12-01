@@ -94,16 +94,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
-</div>
-
-###
-
 <h2 align="left">Other</h2>
 
 ###
@@ -122,6 +112,11 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
 </div>
 
 ###
