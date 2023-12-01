@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">- ⭐ Actively working on various side projects <br>- 🌱 Why don't scientists trust atoms? They make up everything! <br>- ❓ Feel free to reach out with any questions.</p>
+<p align="left">
+  ⭐ Actively working on various side projects 
+  <br/> 
+  🌱 Why don't scientists trust atoms? They make up everything!
+  <be>
+  ❓ Feel free to reach out with any questions.
+</p>
 
 ###
 
