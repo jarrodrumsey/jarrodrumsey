@@ -5,7 +5,7 @@
 <p align="left">
   ⭐ Actively working on various side projects 
   <br/> 
-  🌱 Why don't scientists trust atoms? They make up everything!
+  🌱 Why don't scientists trust atoms? They make everything up!
   <br/>
   ❓ Feel free to reach out with any questions.
 </p>
