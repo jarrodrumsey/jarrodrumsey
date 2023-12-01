@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  ⭐ Actively working on various side projects 
+  ⭐ Actively working on various side projects.
   <br/> 
   🌱 Why don't scientists trust atoms? They make everything up!
   <br/>
