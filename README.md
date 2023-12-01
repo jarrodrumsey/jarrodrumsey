@@ -143,7 +143,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <img width="12" />
-  <a href="https://medium.com/@ashfieldx" target="_blank">
+  <a href="https://medium.com/@Ashfieldx" target="_blank">
     <img src="https://img.shields.io/badge/medium-%23292929.svg?logo=medium&logoColor=white&style=for-the-badge" height="40" alt="medium logo" />
   </a>  
 </div>
