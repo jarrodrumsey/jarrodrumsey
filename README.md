@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left" style="font-style: italic">
+<p align="left">
   ⭐ Actively working on various side projects.
   <br/> 
   🌱 Why don't scientists trust atoms? They make up everything!
