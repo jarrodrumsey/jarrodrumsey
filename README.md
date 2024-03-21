@@ -131,7 +131,7 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/ashfieldx" target="_blank">
+  <a href="https://github.com/jarrodrumsey" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
   </a>
   <img width="12" />
