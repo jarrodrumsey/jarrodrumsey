@@ -136,7 +136,7 @@
   </a>
   <img width="12" />
   <a href="https://twitter.com/jarrodrumsey" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   <img width="12" />
   <a href="https://linkedin.com/in/jarrodrumsey" target="_blank">
