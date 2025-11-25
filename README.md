@@ -1,20 +1,12 @@
-<h1 align="center">🚀 Jarrod Rumsey | Github Profile 🚀</h1>
+## Bio
 
-###
+- **Website**: [Portfolio Website](https://jarrodrumsey.ca) (*needs to be updated*)
+- **Position**: AI Engineering Lead / TPM @ [Mxpert](https://mxpert.ai)
+- **Education**: BEng., Computer
 
-<p align="left">
-  ⭐ Actively working on various side projects.
-  <br/> 
-  🌱 Why don't scientists trust atoms? <i>They make up everything!</i>
-  <br/>
-  ❓ Feel free to reach out with any questions.
-</p>
+## Skills
 
-###
-
-<h2 align="left">Programming Languages</h2>
-
-###
+### Programming Languages
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -34,11 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="40" alt="matlab logo"  />
 </div>
 
-###
-
-<h2 align="left">Front-End</h2>
-
-###
+### Frontend Technologies
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -49,22 +37,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" width="40" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
@@ -74,11 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="40" alt="storybook logo"  />
 </div>
 
-###
-
-<h2 align="left">Back-End</h2>
-
-###
+### Backend Technologies
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
@@ -90,11 +64,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
 
-###
-
-<h2 align="left">Other</h2>
-
-###
+### Other Skills
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -105,23 +75,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/windows/0078D6" height="40" alt="windows8 logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-</div>
-
-### 
-
-<div align="left">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
+
 </div>
 
 ###
@@ -143,19 +106,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <img width="12" />
-  <a href="https://medium.com/@Ashfieldx" target="_blank">
+  <a href="https://medium.com/@jarrodrumsey" target="_blank">
     <img src="https://img.shields.io/badge/medium-%23292929.svg?logo=medium&logoColor=white&style=for-the-badge" height="40" alt="medium logo" />
   </a>  
 </div>
 
 ###
-
-<h2 align="left"></h2>
-
-###
-
-Most of my repos are private for various reasons.
-
-<br/>  
-
 
