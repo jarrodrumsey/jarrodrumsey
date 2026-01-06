@@ -1,6 +1,6 @@
 ## Bio
 
-- **Website**: [Portfolio Website](https://jarrodrumsey.ca) (*needs to be updated*)
+- **Portfolio**: [Portfolio Website](https://jarrodrumsey.ca) (*needs to be updated*)
 - **Position**: AI Engineering Lead / TPM @ [Mxpert](https://mxpert.ai)
 - **Education**: BEng., Computer
 
